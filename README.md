@@ -1,5 +1,7 @@
 # real_time_chat_app
 
+用go+angular实现的一个简单的即时聊天demo
+
 ## 环境：
 
 go:1.18
